@@ -1,0 +1,4 @@
+PosterBot/
+├── bot.py
+├── requirements.txt
+├── README.md (optional)
