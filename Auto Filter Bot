@@ -1,0 +1,9 @@
+auto-filter-bot/
+├── bot.py ✅
+├── config.py ✅
+├── requirements.txt ✅
+├── database/
+│   └── __init__.py ✅
+├── plugins/
+│   ├── admin.py ✅
+│   └── user.py ✅
